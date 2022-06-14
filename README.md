@@ -1,3 +1,5 @@
+[![Ruby Gem](https://github.com/MehPNZ/ruby-gems/actions/workflows/ipgeobase_gem.yml/badge.svg?branch=MehPNZ-patch-2)](https://github.com/MehPNZ/ruby-gems/actions/workflows/ipgeobase_gem.yml)
+
 # Ipgeobase
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ipgeobase`. To experiment with that code, run `bin/console` for an interactive prompt.
